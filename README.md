@@ -20,4 +20,5 @@
 ## Приноси
 
 Ако желаете да предложите редакции или допълнения, изпратете Pull Request или отворете Issue.
+Може да видите проекта и всички приложени файлове в Mapbox карта тук - https://ogistoyanov.com/projects/detailed-gis-on-caves-zoning-in-bulgaria-2
 
